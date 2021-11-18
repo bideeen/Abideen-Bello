@@ -1,5 +1,7 @@
 # Hey there 👋, ![](https://komarev.com/ghpvc/?username=bideeen&label=VIEWS)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=bideeen&show_icons=true&theme=dark&count_private=true)
+
 ## I'm Abideen Bello 😎
 
 - I'm a Python (Data Science, Flask and Django) Developer Tableau/PowerBI Developer and Database Administrator.
@@ -20,8 +22,6 @@ Currently, I am available for hire.
 - ⚡ Fun fact: You'd make my day if you sent me car videos.
 
 ![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs?username=bideeen&layout=compact&theme=dark)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=bideeen&show_icons=true&theme=dark&count_private=true)
 
 ### :rocket: Articles
 

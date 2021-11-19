@@ -4,7 +4,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bideeen&show_icons=true&theme=dark&count_private=true)
 
-- I'm a Python (Data Science, Flask and Django) Developer Tableau/PowerBI Developer and Database Administrator.
+- I'm a Python (Data Science, Flask and Django) Developer, Tableau/PowerBI Developer and Database Administrator.
   
 - I'm passionate about Data Science, Progressive Web Apps, Data Analysis, Machine Learning, and Artificial Intelligence.
 

@@ -16,6 +16,7 @@
 
 Currently, I am available for hire.
 
+- Schedule a call now: https://calendly.com/bideen/30min
 - 💬 Ask me about: My journey into Software Development.
 - 📫 How to reach me: DM @bideeen or email abideen.datascienceofficial@gmail.com
 - 😄 Pronouns: He/Him

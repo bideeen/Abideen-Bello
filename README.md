@@ -25,24 +25,24 @@ Currently, I am available for hire.
 ![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs?username=bideeen&layout=compact&theme=dark)
 
 
-### Data Science and Machine Learning Projects
+### 🎰 Data Science and Machine Learning Projects
 
 - [Heart Disease Prediction](https://github.com/bideeen/Heart-Disease-Prediction)
 - [Stock Investment Dashboard](https://github.com/bideeen/Stock-Investment-Dashboard)
 - [Parkinson's Disease Prediction](https://github.com/bideeen/Parkinsosn-Disease-Prediction)
 
-### Javascripts & React JS Projects
+### 📜 Javascripts & React JS Projects
 - [Digital Business Cards](https://github.com/bideeen/Digital-Business-Card)
 - [WavePortal.io](https://github.com/bideeen/WavePortal.io)
 - [Invoice Creator](https://github.com/bideeen/Invoice-Creator)
 - [Password Generator](https://github.com/bideeen/Password-Generator)
 - [Unit Converter](https://github.com/bideeen/Unit-Converter)
 
-###: Smart Contract Project
+### 🔡 Smart Contract Project
 - [ELcaro Bank Contract](https://github.com/bideeen/Elcaro)
 - [WavePortal Contract](https://github.com/bideeen/WavePortal)
 
-### Python Library
+### ♎ Python Library
 - [B_dist](https://github.com/bideeen/b_dist)
 
 ### :rocket: Articles

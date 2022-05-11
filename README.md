@@ -4,7 +4,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bideeen&show_icons=true&theme=dark&count_private=true)
 
-- I'm a Python (Data Science, Flask and Django) Developer, Tableau/PowerBI Developer and Database Administrator.
+- I'm a Software Developer with expertise in Javascript, Python(Major), Data Science and Machine Learning.
   
 - I'm passionate about Data Science, Blockchain, Machine Learning, and Smart Contract.
 
@@ -29,8 +29,7 @@ Currently, I am available for hire.
 
 - [Heart Disease Prediction](https://github.com/bideeen/Heart-Disease-Prediction)
 - [Stock Investment Dashboard](https://github.com/bideeen/Stock-Investment-Dashboard)
-- 
-- N/A
+- [Parkinson's Disease Prediction](https://github.com/bideeen/Parkinsosn-Disease-Prediction)
 
 ### Javascripts & React JS Projects
 - [Digital Business Cards](https://github.com/bideeen/Digital-Business-Card)
@@ -38,8 +37,6 @@ Currently, I am available for hire.
 - [Invoice Creator](https://github.com/bideeen/Invoice-Creator)
 - [Password Generator](https://github.com/bideeen/Password-Generator)
 - [Unit Converter](https://github.com/bideeen/Unit-Converter)
-- 
-- 
 
 ###: Smart Contract Project
 - [ELcaro Bank Contract](https://github.com/bideeen/Elcaro)

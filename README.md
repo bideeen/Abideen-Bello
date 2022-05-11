@@ -6,7 +6,7 @@
 
 - I'm a Python (Data Science, Flask and Django) Developer, Tableau/PowerBI Developer and Database Administrator.
   
-- I'm passionate about Data Science, Progressive Web Apps, Data Analysis, Machine Learning, and Artificial Intelligence.
+- I'm passionate about Data Science, Blockchain, Machine Learning, and Smart Contract.
 
 - I love learning and creating things that work and make life easy. Some technologies I enjoy working with include, Python, Sql, PowerBI, Tableau and Dataiku.
 
@@ -23,6 +23,30 @@ Currently, I am available for hire.
 - ⚡ Fun fact: You'd make my day if you sent me car videos.
 
 ![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs?username=bideeen&layout=compact&theme=dark)
+
+
+### Data Science and Machine Learning Projects
+
+- [Heart Disease Prediction](https://github.com/bideeen/Heart-Disease-Prediction)
+- [Stock Investment Dashboard](https://github.com/bideeen/Stock-Investment-Dashboard)
+- 
+- N/A
+
+### Javascripts & React JS Projects
+- [Digital Business Cards](https://github.com/bideeen/Digital-Business-Card)
+- [WavePortal.io](https://github.com/bideeen/WavePortal.io)
+- [Invoice Creator](https://github.com/bideeen/Invoice-Creator)
+- [Password Generator](https://github.com/bideeen/Password-Generator)
+- [Unit Converter](https://github.com/bideeen/Unit-Converter)
+- 
+- 
+
+###: Smart Contract Project
+- [ELcaro Bank Contract](https://github.com/bideeen/Elcaro)
+- [WavePortal Contract](https://github.com/bideeen/WavePortal)
+
+### Python Library
+- [B_dist](https://github.com/bideeen/b_dist)
 
 ### :rocket: Articles
 

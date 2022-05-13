@@ -39,13 +39,13 @@ Currently, I am available for hire.
 - [Unit Converter](https://github.com/bideeen/Unit-Converter)
 
 ### 🔡 Smart Contract Project
-- [AoBCoin Contract]
+- AoBCoin Contract
   - [Code](https://github.com/bideeen/AOB-Smart-Contract)
   - [Deployment](https://ao-bc-oin-dapp.vercel.app/)
-- [ELcaro Bank Contract]
+- ELcaro Bank Contract
   -  [Code](https://github.com/bideeen/Elcaro)
   -  [Deployment](https://elcaro.vercel.app/)
-- [WavePortal Contract]
+- WavePortal Contract
   - [Code](https://github.com/bideeen/WavePortal)
   - [Deployment](https://wave-portal-io.vercel.app/)
 

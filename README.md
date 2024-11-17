@@ -62,6 +62,7 @@ Currently, I am available for hire.
 ### 📫 Where to find me
 
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'> [Github](https://github.com/bideeen) 😎
+- <img src='https://w7.pngwing.com/pngs/825/678/png-transparent-upwork-hd-logo.png' alt='upwork' height='18'> [Upwork](https://www.upwork.com/freelancers/~01d5e9dff5cbc91ced?mp_source=share) 😎
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='18'> [Instagram](https://www.instagram.com/bideen__/) 😎
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'> [Twitter](https://twitter.com/_bideen) 😎
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='18'> [StackOverflow](https://stackoverflow.com/users/9477253/abideen-opeyemi-bello) 😎
